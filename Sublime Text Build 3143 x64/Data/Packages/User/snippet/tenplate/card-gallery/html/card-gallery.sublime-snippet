@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="card-gallery">
+	<div class="card-gallery__img-item">
+		<img src="${1:Путь к кортинкиЪ}" alt="" class="card-gallery__img">
+	</div>
+	<div class="active-gallery">
+		<h3 class="active-gallery__headline">${2:headline}</h3>
+		<p class="active-gallery__description">${3:description}</p>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>card-gallery</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+	<description>card-gallery</description>
+</snippet>

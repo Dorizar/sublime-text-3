@@ -1,0 +1,1537 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Admin_2017/Desktop/siteng gals/app",
+		"/C/Users/Admin_2017/Desktop/tet",
+		"/C/Users/Admin_2017/Desktop/Aastor/app",
+		"/C/Users/Admin_2017/Desktop/SDSD",
+		"/C/Users/Admin_2017/Desktop/libs/proba/app",
+		"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app",
+		"/C/Users/Admin_2017/Desktop/libs/hotel-project/app",
+		"/C/Users/Admin_2017/Desktop/libs/test/app",
+		"/C/Users/Admin_2017/Desktop/libs/test3/app",
+		"/C/Users/Admin_2017/Desktop/libs/test3",
+		"/C/Users/Admin_2017/Desktop/libs/test2/app",
+		"/C/Users/Admin_2017/Desktop/test",
+		"/C/Users/Admin_2017/Desktop/libs",
+		"/C/Users/Admin_2017/Desktop/Новая папка",
+		"/C/Users/Admin_2017/Desktop/sity"
+	],
+	"last_version": 3143,
+	"last_window_id": 41,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 298.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lis",
+						"list-style"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"table",
+						"inline-table"
+					],
+					[
+						"clear",
+						"clearFix\tПока пусто"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"w-",
+						"w-font-icon\tИконки"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"align-",
+						"align-self"
+					],
+					[
+						"inline-",
+						"inline-flex"
+					],
+					[
+						"spa",
+						"space-between"
+					],
+					[
+						"jus",
+						"justify-content"
+					],
+					[
+						"bas",
+						"flex-basis"
+					],
+					[
+						"space-",
+						"space-between"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"spac",
+						"space-between"
+					],
+					[
+						"space-ar",
+						"space-around"
+					],
+					[
+						"i",
+						"index.html"
+					],
+					[
+						"br",
+						"browserSync"
+					],
+					[
+						"brow",
+						"browserSync.init"
+					],
+					[
+						"bro",
+						"browserSync.init"
+					],
+					[
+						"overflow",
+						"overflow-y"
+					],
+					[
+						"footer",
+						"footer.less"
+					],
+					[
+						"block",
+						"block/"
+					],
+					[
+						"f",
+						"footer/"
+					],
+					[
+						"ver",
+						"vertical-align\t(header.less)"
+					],
+					[
+						"flex-",
+						"flex-basis"
+					],
+					[
+						"L",
+						"Lora"
+					],
+					[
+						"advert_position-",
+						"advert_position-rel\t(index.html)"
+					],
+					[
+						"table-",
+						"table-row"
+					],
+					[
+						"ro",
+						"row"
+					],
+					[
+						"brand",
+						"brand-3.png\tw:165 h:76"
+					],
+					[
+						"logo",
+						"logo__icon"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"con",
+						"content-box"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"j",
+						"gamburger.js"
+					],
+					[
+						"v",
+						"rsz-v\tresize: vertical;"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"card",
+						"card-gallery__img-item"
+					],
+					[
+						"card-galle",
+						"card-gallery\tcard-gallery"
+					],
+					[
+						"card-gallery",
+						"card-gallery__img"
+					],
+					[
+						"sty",
+						"styleMix/"
+					],
+					[
+						"top",
+						"topMenu.less"
+					],
+					[
+						"bl",
+						"block/"
+					],
+					[
+						"border-",
+						"border-top"
+					],
+					[
+						"header",
+						"header.less"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"m",
+						"monospace"
+					],
+					[
+						"d",
+						"flex-direction"
+					],
+					[
+						"let",
+						"letter-spacing"
+					],
+					[
+						"grid-ro",
+						"grid-row-gap"
+					],
+					[
+						"grid-col",
+						"grid-column-gap"
+					],
+					[
+						"grid",
+						"inline-grid"
+					],
+					[
+						"grid-template",
+						"grid-template-columns"
+					],
+					[
+						"r",
+						"row"
+					],
+					[
+						"fle",
+						"flex-grow"
+					],
+					[
+						"w",
+						"wrap"
+					],
+					[
+						"c",
+						"column"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"grid-templae",
+						"grid-template-rows"
+					],
+					[
+						"grid-",
+						"grid-row-gap"
+					],
+					[
+						"in",
+						"initial"
+					],
+					[
+						"repeat",
+						"repeat-y"
+					],
+					[
+						"dire",
+						"flex-direction"
+					],
+					[
+						"popular",
+						"popular-4.jpg\tw:286 h:307"
+					],
+					[
+						"backgo",
+						"background"
+					],
+					[
+						"bg-header",
+						"bg-header2.jpg\tw:5621 h:3748"
+					],
+					[
+						"space",
+						"space-around"
+					],
+					[
+						"alegn",
+						"align-content"
+					],
+					[
+						"inline",
+						"inline-table"
+					],
+					[
+						"se",
+						"section_container\tСекция > Контейнер"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 112.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 448.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Admin_2017/Desktop/tet/index.html",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/index.html",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/style.less",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/js/may_script.js",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/main-basic.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/style.css",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Single Blog.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Domain.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Pricing.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Services.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/search.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/img/icon/CheckMark1.svg",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/img/icon/check-solid.svg",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/midle.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/color.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/navigation.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/top-line.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/top-nav.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/logo.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/defoult.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/style.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/Single Blog.html",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/main-basic.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/About Us.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Blog.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Contact Us.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/main.html",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/mixin/modules.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/proba/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/less/glogal.less",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/basal.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/package.json",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/apartments.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/mixine/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/apartments.html",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/pug/mixins/modules/nav.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/pug/lemlates/template/main-template.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test3/app/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/test3/app/.style.css/header.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/demo/css/footer.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/demo/css/header.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/css/main.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/node_modules/clean-css/lib/optimizer/level-2/break-up.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/main_script.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/header_top.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/footer_top.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/js/may_script.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/package.json",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/sass/footer.sass",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/sass/header.sass",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/package-lock.json",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/gulpfile — копия (2).js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/prepros-6.config",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/index.html",
+				"/C/Users/Admin_2017/Desktop/test/style.css",
+				"/C/Users/Admin_2017/Desktop/test/svg-filters.svg",
+				"/C/Users/Admin_2017/Desktop/test/index.html",
+				"/C/Users/Admin_2017/Desktop/Новая папка/style.css",
+				"/C/Users/Admin_2017/Desktop/Новая папка/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/bug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/pug/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/pug/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/bug/header.pug",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/middle/main-card.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/copiy/copiy.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/footer/footer.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/form/form.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/blog/blog.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/header-banner/header.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/index.html",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/top-bg-nav/top-nav.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/breans/breand.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/advert/advert.less",
+				"/C/Users/Admin_2017/Desktop/Sublime Text Build 3143 x64/Data/Packages/User/eCSStractor.sublime-settings",
+				"/C/Users/Admin_2017/Desktop/Sublime Text Build 3143 x64/Data/Packages/eCSStractor/eCSStractor.sublime-settings",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/style/defoult.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/img/icon/bag.svg",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/font/droidserif/droidserif.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/top-bg-nav/top-nav.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/style.less",
+				"/C/Users/Admin_2017/Desktop/sity/nav/jq/gamburger.js",
+				"/C/Users/Admin_2017/Desktop/sity/nav/style.less",
+				"/C/Users/Admin_2017/Desktop/sity/nav/index.html",
+				"/C/Users/Admin_2017/Desktop/sity/nav/jq/jquery.js"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 140.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			}
+		},
+		"new_window_width": 1018.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lis",
+						"list-style"
+					],
+					[
+						"z-",
+						"z-index"
+					],
+					[
+						"table",
+						"inline-table"
+					],
+					[
+						"clear",
+						"clearFix\tПока пусто"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"w-",
+						"w-font-icon\tИконки"
+					],
+					[
+						"align",
+						"align-content"
+					],
+					[
+						"align-",
+						"align-self"
+					],
+					[
+						"inline-",
+						"inline-flex"
+					],
+					[
+						"spa",
+						"space-between"
+					],
+					[
+						"jus",
+						"justify-content"
+					],
+					[
+						"bas",
+						"flex-basis"
+					],
+					[
+						"space-",
+						"space-between"
+					],
+					[
+						"flex",
+						"flex-wrap"
+					],
+					[
+						"spac",
+						"space-between"
+					],
+					[
+						"space-ar",
+						"space-around"
+					],
+					[
+						"i",
+						"index.html"
+					],
+					[
+						"br",
+						"browserSync"
+					],
+					[
+						"brow",
+						"browserSync.init"
+					],
+					[
+						"bro",
+						"browserSync.init"
+					],
+					[
+						"overflow",
+						"overflow-y"
+					],
+					[
+						"footer",
+						"footer.less"
+					],
+					[
+						"block",
+						"block/"
+					],
+					[
+						"f",
+						"footer/"
+					],
+					[
+						"ver",
+						"vertical-align\t(header.less)"
+					],
+					[
+						"flex-",
+						"flex-basis"
+					],
+					[
+						"L",
+						"Lora"
+					],
+					[
+						"advert_position-",
+						"advert_position-rel\t(index.html)"
+					],
+					[
+						"table-",
+						"table-row"
+					],
+					[
+						"ro",
+						"row"
+					],
+					[
+						"brand",
+						"brand-3.png\tw:165 h:76"
+					],
+					[
+						"logo",
+						"logo__icon"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"con",
+						"content-box"
+					],
+					[
+						"abs",
+						"absolute"
+					],
+					[
+						"tab",
+						"table-cell"
+					],
+					[
+						"j",
+						"gamburger.js"
+					],
+					[
+						"v",
+						"rsz-v\tresize: vertical;"
+					],
+					[
+						"a",
+						"auto"
+					],
+					[
+						"card",
+						"card-gallery__img-item"
+					],
+					[
+						"card-galle",
+						"card-gallery\tcard-gallery"
+					],
+					[
+						"card-gallery",
+						"card-gallery__img"
+					],
+					[
+						"sty",
+						"styleMix/"
+					],
+					[
+						"top",
+						"topMenu.less"
+					],
+					[
+						"bl",
+						"block/"
+					],
+					[
+						"border-",
+						"border-top"
+					],
+					[
+						"header",
+						"header.less"
+					],
+					[
+						"re",
+						"relative"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"b",
+						"both"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"m",
+						"monospace"
+					],
+					[
+						"d",
+						"flex-direction"
+					],
+					[
+						"let",
+						"letter-spacing"
+					],
+					[
+						"grid-ro",
+						"grid-row-gap"
+					],
+					[
+						"grid-col",
+						"grid-column-gap"
+					],
+					[
+						"grid",
+						"inline-grid"
+					],
+					[
+						"grid-template",
+						"grid-template-columns"
+					],
+					[
+						"r",
+						"row"
+					],
+					[
+						"fle",
+						"flex-grow"
+					],
+					[
+						"w",
+						"wrap"
+					],
+					[
+						"c",
+						"column"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"grid-templae",
+						"grid-template-rows"
+					],
+					[
+						"grid-",
+						"grid-row-gap"
+					],
+					[
+						"in",
+						"initial"
+					],
+					[
+						"repeat",
+						"repeat-y"
+					],
+					[
+						"dire",
+						"flex-direction"
+					],
+					[
+						"popular",
+						"popular-4.jpg\tw:286 h:307"
+					],
+					[
+						"backgo",
+						"background"
+					],
+					[
+						"bg-header",
+						"bg-header2.jpg\tw:5621 h:3748"
+					],
+					[
+						"space",
+						"space-around"
+					],
+					[
+						"alegn",
+						"align-content"
+					],
+					[
+						"inline",
+						"inline-table"
+					],
+					[
+						"se",
+						"section_container\tСекция > Контейнер"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Admin_2017/Desktop/siteng gals/gulpfile.js",
+					"settings":
+					{
+						"buffer_size": 3372,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Admin_2017/Documents/GitHub/gulp/gulp/app/index.html",
+					"settings":
+					{
+						"buffer_size": 398,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/index.pug",
+					"settings":
+					{
+						"buffer_size": 502,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/style.css",
+					"settings":
+					{
+						"buffer_size": 310,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<!DOCTYPE html>\n<html lang=\"en\"></html>\n<head>\n\t<meta charset=\"UTF-8\"/>\n\t<title>Document</title>\n\t<link rel=\"icon\" href=\"icone.png\">\n\t<link rel=\"stylesheet\" href=\"style/normalize.css\" media=\"all\"/>\n\t<link rel=\"stylesheet\" href=\"style/defoult.css\" media=\"all\"/>\n\t<link rel=\"stylesheet\" href=\"style.css\" media=\"all\"/>\n</head>\n<body>\n\t<h3>dfdf</h3><img src=\"img/icone.png\" alt=\"\"/>\n</body>",
+					"file": "/C/Users/Admin_2017/Desktop/siteng gals/build/index.html",
+					"file_size": 386,
+					"file_write_time": 131815008869604903,
+					"settings":
+					{
+						"buffer_size": 386,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/block/less/main-basic.less",
+					"settings":
+					{
+						"buffer_size": 327,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 112.0,
+				"last_filter": "insta",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					]
+				],
+				"width": 448.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Admin_2017/Desktop/tet",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/less",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug"
+			],
+			"file_history":
+			[
+				"/C/Users/Admin_2017/Desktop/Aastor/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/tet/index.html",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/index.html",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/style.less",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/js/may_script.js",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/template/main-basic.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/style.css",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Single Blog.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Domain.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Pricing.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Services.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/search.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/img/icon/CheckMark1.svg",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/img/icon/check-solid.svg",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/midle.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/color.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/navigation.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/top-line.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/top-nav.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/modules/logo.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/defoult.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/less/style.less",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/Single Blog.html",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/template/main-basic.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/About Us.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Blog.pug",
+				"/C/Users/Admin_2017/Desktop/Aastor/app/block/pug/Contact Us.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/main.html",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/mixin/modules.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/proba/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/less/glogal.less",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/basal.pug",
+				"/C/Users/Admin_2017/Desktop/libs/proba/app/block/pug/template/mixin/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/package.json",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/apartments.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/mixine/mixin.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/apartments.html",
+				"/C/Users/Admin_2017/Desktop/libs/ОТЕЛЬ БАУТИ/app/block/pug/templates/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/pug/mixins/modules/nav.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/contacts.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test/app/pug/lemlates/template/main-template.pug",
+				"/C/Users/Admin_2017/Desktop/libs/test3/app/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/test3/app/.style.css/header.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/demo/css/footer.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/demo/css/header.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/css/main.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/node_modules/clean-css/lib/optimizer/level-2/break-up.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/main_script.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/header_top.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/jq/footer_top.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/pug/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/js/may_script.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/package.json",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/sass/footer.sass",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/sass/header.sass",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/less/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/package-lock.json",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/block/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/gulpfile.js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/gulpfile — копия (2).js",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/app/prepros-6.config",
+				"/C/Users/Admin_2017/Desktop/libs/gulpTest/index.html",
+				"/C/Users/Admin_2017/Desktop/test/style.css",
+				"/C/Users/Admin_2017/Desktop/test/svg-filters.svg",
+				"/C/Users/Admin_2017/Desktop/test/index.html",
+				"/C/Users/Admin_2017/Desktop/Новая папка/style.css",
+				"/C/Users/Admin_2017/Desktop/Новая папка/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/style.css",
+				"/C/Users/Admin_2017/Desktop/libs/block/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/index.html",
+				"/C/Users/Admin_2017/Desktop/libs/index.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/header.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/main.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style/footer.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/style.less",
+				"/C/Users/Admin_2017/Desktop/libs/blck/bug/main.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/pug/header.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/pug/footer.pug",
+				"/C/Users/Admin_2017/Desktop/libs/blck/bug/header.pug",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/middle/main-card.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/copiy/copiy.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/footer/footer.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/form/form.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/blog/blog.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/header-banner/header.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/index.html",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/top-bg-nav/top-nav.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/breans/breand.less",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/advert/advert.less",
+				"/C/Users/Admin_2017/Desktop/Sublime Text Build 3143 x64/Data/Packages/User/eCSStractor.sublime-settings",
+				"/C/Users/Admin_2017/Desktop/Sublime Text Build 3143 x64/Data/Packages/eCSStractor/eCSStractor.sublime-settings",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/style/defoult.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/img/icon/bag.svg",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/font/droidserif/droidserif.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/block/header/top-bg-nav/top-nav.css",
+				"/C/Users/Admin_2017/Desktop/sity/eCommerce/eCommerce/Fashion-eCommerce-Website-Free-PSD-Template/eCommerce/style.less",
+				"/C/Users/Admin_2017/Desktop/sity/nav/jq/gamburger.js",
+				"/C/Users/Admin_2017/Desktop/sity/nav/style.less",
+				"/C/Users/Admin_2017/Desktop/sity/nav/index.html",
+				"/C/Users/Admin_2017/Desktop/sity/nav/jq/jquery.js"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 111.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Admin_2017\\Desktop\\tet"
+				},
+				{
+					"path": "C:\\Users\\Admin_2017\\Desktop\\siteng gals\\app"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Admin_2017/Desktop/siteng gals/gulpfile.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3372,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3224,
+										3224
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "gulpfile js",
+									"buffer_scroll_name": "f782efdb",
+									"spell_check": false,
+									"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Gulpfile JS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3158.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Admin_2017/Documents/GitHub/gulp/gulp/app/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										79,
+										79
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "html",
+									"buffer_scroll_name": "2fd364b0",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/block/pug/index.pug",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 502,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										493,
+										493
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "pug",
+									"buffer_scroll_name": "01021216",
+									"spell_check": false,
+									"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 310,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										283,
+										283
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "css",
+									"buffer_scroll_name": "65e79f46",
+									"spell_check": false,
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Admin_2017/Desktop/siteng gals/build/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 386,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										176,
+										176
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "html",
+									"buffer_scroll_name": "28d894d9",
+									"spell_check": false,
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/Admin_2017/Desktop/siteng gals/app/block/less/main-basic.less",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 327,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										276,
+										276
+									]
+								],
+								"settings":
+								{
+									"bs_sintax": "less",
+									"buffer_scroll_name": "cd833049",
+									"spell_check": false,
+									"syntax": "Packages/LESS/LESS.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 30.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 140.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,662,222,305,1256",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 250.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 1
+			},
+			"window_id": 38,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

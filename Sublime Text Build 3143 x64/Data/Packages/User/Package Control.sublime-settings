@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Color Highlighter",
+		"eCSStractor",
+		"Emmet",
+		"LESS",
+		"Package Control",
+		"Pug",
+		"Sass",
+		"Theme - Afterglow"
+	]
+}

@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+.clearFix:after,
+.clearFix:before{
+	content: '';
+	display: table;
+	min-height: 0;
+	clear: both;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>clearFix</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css,source.less,source.sass</scope>
+	<description>Пока пусто</description>
+</snippet>

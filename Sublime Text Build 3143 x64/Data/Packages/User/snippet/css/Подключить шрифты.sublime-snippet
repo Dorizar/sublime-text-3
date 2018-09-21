@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+@font-face {
+  font-family: ${1: Названия шрифта};
+  src:url(${2: Путь к шрифту});
+  font-weight: ${3: Начертания шрифта};
+  font-style: ${4: курсив шрифта};
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>w-font-family</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css,source.sass,source.less</scope>
+	<description>Подключить шрифты</description>
+</snippet>
+

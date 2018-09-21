@@ -1,0 +1,4 @@
+[
+	{"keys": ["alt+shift+f"], "command": "reindent"},
+	{ "keys": ["ctrl+shift+d"], "command": "paste_and_indent" },
+]
